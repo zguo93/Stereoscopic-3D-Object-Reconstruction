@@ -1,0 +1,2 @@
+This part is SIFT feature extraction and Ransac matching.
+Then register two models to generate final result.
